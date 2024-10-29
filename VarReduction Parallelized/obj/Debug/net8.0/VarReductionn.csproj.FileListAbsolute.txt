@@ -1,0 +1,42 @@
+/Users/yuanhanlim/Desktop/C#/VarReduction/bin/Debug/net8.0/VarReductionn
+/Users/yuanhanlim/Desktop/C#/VarReduction/bin/Debug/net8.0/VarReductionn.deps.json
+/Users/yuanhanlim/Desktop/C#/VarReduction/bin/Debug/net8.0/VarReductionn.runtimeconfig.json
+/Users/yuanhanlim/Desktop/C#/VarReduction/bin/Debug/net8.0/VarReductionn.dll
+/Users/yuanhanlim/Desktop/C#/VarReduction/bin/Debug/net8.0/VarReductionn.pdb
+/Users/yuanhanlim/Desktop/C#/VarReduction/obj/Debug/net8.0/VarReductionn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuanhanlim/Desktop/C#/VarReduction/obj/Debug/net8.0/VarReductionn.AssemblyInfoInputs.cache
+/Users/yuanhanlim/Desktop/C#/VarReduction/obj/Debug/net8.0/VarReductionn.AssemblyInfo.cs
+/Users/yuanhanlim/Desktop/C#/VarReduction/obj/Debug/net8.0/VarReductionn.csproj.CoreCompileInputs.cache
+/Users/yuanhanlim/Desktop/C#/VarReduction/obj/Debug/net8.0/VarReductionn.dll
+/Users/yuanhanlim/Desktop/C#/VarReduction/obj/Debug/net8.0/refint/VarReductionn.dll
+/Users/yuanhanlim/Desktop/C#/VarReduction/obj/Debug/net8.0/VarReductionn.pdb
+/Users/yuanhanlim/Desktop/C#/VarReduction/obj/Debug/net8.0/VarReductionn.genruntimeconfig.cache
+/Users/yuanhanlim/Desktop/C#/VarReduction/obj/Debug/net8.0/ref/VarReductionn.dll
+/Users/yuanhanlim/Desktop/FM 5252/C#/VarReduction/bin/Debug/net8.0/VarReductionn
+/Users/yuanhanlim/Desktop/FM 5252/C#/VarReduction/bin/Debug/net8.0/VarReductionn.deps.json
+/Users/yuanhanlim/Desktop/FM 5252/C#/VarReduction/bin/Debug/net8.0/VarReductionn.runtimeconfig.json
+/Users/yuanhanlim/Desktop/FM 5252/C#/VarReduction/bin/Debug/net8.0/VarReductionn.dll
+/Users/yuanhanlim/Desktop/FM 5252/C#/VarReduction/bin/Debug/net8.0/VarReductionn.pdb
+/Users/yuanhanlim/Desktop/FM 5252/C#/VarReduction/obj/Debug/net8.0/VarReductionn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuanhanlim/Desktop/FM 5252/C#/VarReduction/obj/Debug/net8.0/VarReductionn.AssemblyInfoInputs.cache
+/Users/yuanhanlim/Desktop/FM 5252/C#/VarReduction/obj/Debug/net8.0/VarReductionn.AssemblyInfo.cs
+/Users/yuanhanlim/Desktop/FM 5252/C#/VarReduction/obj/Debug/net8.0/VarReductionn.csproj.CoreCompileInputs.cache
+/Users/yuanhanlim/Desktop/FM 5252/C#/VarReduction/obj/Debug/net8.0/VarReductionn.dll
+/Users/yuanhanlim/Desktop/FM 5252/C#/VarReduction/obj/Debug/net8.0/refint/VarReductionn.dll
+/Users/yuanhanlim/Desktop/FM 5252/C#/VarReduction/obj/Debug/net8.0/VarReductionn.pdb
+/Users/yuanhanlim/Desktop/FM 5252/C#/VarReduction/obj/Debug/net8.0/VarReductionn.genruntimeconfig.cache
+/Users/yuanhanlim/Desktop/FM 5252/C#/VarReduction/obj/Debug/net8.0/ref/VarReductionn.dll
+/Users/yuanhanlim/Desktop/FM 5353/VarReduction/bin/Debug/net8.0/VarReductionn
+/Users/yuanhanlim/Desktop/FM 5353/VarReduction/bin/Debug/net8.0/VarReductionn.deps.json
+/Users/yuanhanlim/Desktop/FM 5353/VarReduction/bin/Debug/net8.0/VarReductionn.runtimeconfig.json
+/Users/yuanhanlim/Desktop/FM 5353/VarReduction/bin/Debug/net8.0/VarReductionn.dll
+/Users/yuanhanlim/Desktop/FM 5353/VarReduction/bin/Debug/net8.0/VarReductionn.pdb
+/Users/yuanhanlim/Desktop/FM 5353/VarReduction/obj/Debug/net8.0/VarReductionn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuanhanlim/Desktop/FM 5353/VarReduction/obj/Debug/net8.0/VarReductionn.AssemblyInfoInputs.cache
+/Users/yuanhanlim/Desktop/FM 5353/VarReduction/obj/Debug/net8.0/VarReductionn.AssemblyInfo.cs
+/Users/yuanhanlim/Desktop/FM 5353/VarReduction/obj/Debug/net8.0/VarReductionn.csproj.CoreCompileInputs.cache
+/Users/yuanhanlim/Desktop/FM 5353/VarReduction/obj/Debug/net8.0/VarReductionn.dll
+/Users/yuanhanlim/Desktop/FM 5353/VarReduction/obj/Debug/net8.0/refint/VarReductionn.dll
+/Users/yuanhanlim/Desktop/FM 5353/VarReduction/obj/Debug/net8.0/VarReductionn.pdb
+/Users/yuanhanlim/Desktop/FM 5353/VarReduction/obj/Debug/net8.0/VarReductionn.genruntimeconfig.cache
+/Users/yuanhanlim/Desktop/FM 5353/VarReduction/obj/Debug/net8.0/ref/VarReductionn.dll
