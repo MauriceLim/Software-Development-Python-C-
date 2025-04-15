@@ -12,9 +12,9 @@ Numerical estimation of expected values and standard errors
 
 ♻️ Variance Reduction Techniques ->
 Enhanced pricing accuracy using:
-Antithetic Variates
-Delta Control Variates
-These techniques are applied to reduce simulation variance and improve convergence rates.
+Antithetic Variates  
+Delta Control Variates  
+These techniques are applied to reduce simulation variance and improve convergence rates  
 
 🔧 Delta Variate Implementation ->
 Demonstrates how delta-based control variates are used in derivative pricing. Includes:
