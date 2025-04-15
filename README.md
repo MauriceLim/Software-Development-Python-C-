@@ -27,7 +27,7 @@ Backend: C# with ASP.NET Core + PostgreSQL
 Frontend: ReactJS with Ant Design
 Features dynamic trade updates, Greek recalculations, and a responsive UI
 
-Technologies Used
+Technologies Used -> 
 Python (for quantitative modeling)
 C#, ASP.NET Core (backend)
 PostgreSQL (database)
