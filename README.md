@@ -10,18 +10,18 @@ Implementation of Monte Carlo methods for pricing financial derivatives, includi
 Basic simulation of option payoffs
 Numerical estimation of expected values and standard errors
 
-♻️ Variance Reduction Techniques
+♻️ Variance Reduction Techniques ->
 Enhanced pricing accuracy using:
 Antithetic Variates
 Delta Control Variates
 These techniques are applied to reduce simulation variance and improve convergence rates.
 
-🔧 Delta Variate Implementation
+🔧 Delta Variate Implementation ->
 Demonstrates how delta-based control variates are used in derivative pricing. Includes:
 Calculation of option deltas
 Analytical and numerical comparisons
 
-🧠 Portfolio Management System
+🧠 Portfolio Management System ->
 A complete full-stack application for real-time trade management and risk analytics:
 Backend: C# with ASP.NET Core + PostgreSQL
 Frontend: ReactJS with Ant Design
